@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.changeex{
+    color: green;
+}
+.changesk{
+    color: green;
+}
+.changefoot{
+    color: red;
+}
+.changebody{
+    background-color: rgb(34,57,106) ;
+}
+body{
+    color: white;
+}
+footer{
+    background-color: rgb(17,36,77);
+}
